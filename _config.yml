@@ -11,11 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.github.com/um3dev">View My GitHub Profile</a> 
   
-remote_theme: jekyll/minima
+theme: minima
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-plugins:
-  jekyll-remote-theme
 
 colors:
   crimson: '#900C3F'
