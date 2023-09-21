@@ -1,13 +1,18 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ubaldo Martinez III # your name (or website title) here
+logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Dynamic professional with a track record of enhancing company online presence through
+  trend monitoring, new media adoption, and real-time insights. Empowers team members for
+  effective outreach, resulting in a 20% engagement boost in just 6 months. Proven in configuring
+  branded experiences on leading platforms, with a consistent focus on advancing
+  organizational goals.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ubaldomtziii/">View My LinkedIn Profile</a> 
+  <a href="https://www.github.com/um3dev">View My GitHub Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
