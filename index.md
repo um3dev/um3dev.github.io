@@ -11,9 +11,9 @@ Applied K-Means to undesignated customer data to identify and group common featu
 
 <!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
 
-<img src="images/KMeansClustering3.png?raw=true" width="500" height="300" />
-<img src="images/KMeansClustering.png?raw=true" width="500" height="300"/>
-<img src="images/KMeansClustering2.png?raw=true" width="500" height="300"/>
+<img src="images/KMeansClustering3.png?raw=true" width="500" height="400" />
+<img src="images/KMeansClustering.png?raw=true" width="500" height="400"/>
+<img src="images/KMeansClustering2.png?raw=true" width="500" height="400"/>
 
 ---
 
@@ -28,9 +28,9 @@ Performed PCA on a dataset to decrease dimensionality and assess the importance 
 
 <!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
 
-<img src="images/PCAMatrix.png?raw=true" width="500" height="300" />
-<img src="images/PCAConfusion.png?raw=true" width="500" height="300"/>
-<img src="images/PCADecisionTreeModel.png?raw=true" width="500" height="300"/>
+<img src="images/PCAMatrix.png?raw=true" width="500" height="400" />
+<img src="images/PCAConfusion.png?raw=true" width="500" height="400"/>
+<img src="images/PCADecisionTreeModel.png?raw=true" width="500" height="400"/>
 
 ---
 
