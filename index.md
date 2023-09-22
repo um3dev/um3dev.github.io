@@ -49,7 +49,7 @@ The aim of this analysis is to achieve precise daily revenue predictions for Uni
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) 
 
-<img src="images/TimeSeriesModeling.png?raw=true" width="500" height="250" />
+<img src="images/TimeSeriesModeling.png?raw=true" width="400" height="250" />
 
 ---
 
