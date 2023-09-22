@@ -77,7 +77,7 @@ Sentiment analysis using neural networks is a natural language processing (NLP) 
 
 In this analysis, neural networks are employed for sentiment recognition, specifically discerning whether a customer expresses a positive inclination (recommends) or a negative sentiment (not-recommend) towards a product/service based on their written review.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_2.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_2.ipynb) 
 
 <!-- <img src="images/TimeSeriesModeling.png?raw=true" width="500" height="200" /> -->
 
