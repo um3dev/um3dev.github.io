@@ -31,6 +31,19 @@ Performed PCA on a dataset to decrease dimensionality and assess the importance 
 
 ---
 
+### Market Basket Analysis
+
+
+Market Basket Analysis is a data mining technique used in retail and marketing to discover patterns and relationships between products frequently purchased together by customers. It identifies associations or item sets within transactional data, helping businesses understand customer behavior, optimize product placement, and create targeted marketing strategies to increase sales and customer satisfaction.
+
+Currently, due to nationwide pharmacy shortages, patients face the choice of abruptly changing their medication or waiting for weeks unless they are willing to pay high prices for brand-name drugs. By analyzing purchasing patterns and co-prescriptions of 'amphetamine salt combo xr,' we can identify frequently purchased alternative medications. Recommending these substitutes to patients or physicians ensures they receive necessary treatment during medication shortages.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_3.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_3.ipynb) 
+
+<!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
+
+<img src="images/PCAMatrix.png?raw=true" width="500" height="450" />
+
 ## Skills-Based Projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
