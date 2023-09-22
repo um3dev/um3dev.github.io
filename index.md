@@ -25,8 +25,6 @@ Performed PCA on a dataset to decrease dimensionality and assess the importance 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_2.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_2.ipynb) 
 
-<!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
-
 <img src="images/PCAMatrix.png?raw=true" width="500" height="450" />
 
 ---
@@ -40,9 +38,7 @@ Currently, due to nationwide pharmacy shortages, patients face the choice of abr
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_3.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D212/D212_Task_3.ipynb) 
 
-<!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
-
-<img src="images/PCAMatrix.png?raw=true" width="500" height="450" />
+---
 
 ## Skills-Based Projects
 A selection of smaller projects demonstrating specific data science and ML skills.
