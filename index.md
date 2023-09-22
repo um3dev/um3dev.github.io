@@ -40,6 +40,17 @@ Currently, due to nationwide pharmacy shortages, patients face the choice of abr
 
 ---
 
+### Time Series Modeling
+
+
+Time Series Modeling is a statistical technique used to analyze and forecast data points collected or recorded at regular time intervals. It involves capturing patterns, trends, and seasonality within time-ordered data to make predictions or gain insights into future values or behaviors.
+
+The aim of this analysis is to achieve precise daily revenue predictions for United Hospital by leveraging the available dataset. The methodology entails utilizing the first 80% of the dataset as a training set to forecast the subsequent 20% (test set). By employing observed values for comparative analysis instead of making future projections, we can effectively conduct an evaluation within the confines of this dataset. To accomplish this, we will employ an ARIMA time series model to accurately project the remaining 20% of data values, building upon the insights gained from analyzing the initial 80% of the data.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) 
+
+---
+
 ## Skills-Based Projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
