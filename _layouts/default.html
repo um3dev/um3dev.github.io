@@ -8,7 +8,7 @@
   <title>Ubaldo's Portfolio</title>
 
   {% seo %}
-  <link rel='stylesheet' type='text/css' href='/css/main.css'>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 </head>
 
 <body>
@@ -37,7 +37,6 @@
       {% endif %}
     </header>
     <section>
-      <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
 
       {{ content }}
 
@@ -48,7 +47,6 @@
       {% endif %}
     </footer>
   </div>
-  <script src="/scripts/mode-switcher.js"></script>
   <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
