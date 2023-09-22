@@ -1,6 +1,24 @@
 ## Selected Projects In Data Science, Machine Learning & NLP
 ---
 
+### Forecasing US Home Sales Based Solely On Research Data
+
+This endeavor aimed to leverage data provided by Zillow, encompassing residential property transactions spanning the years 2008 to 2017. The primary objective was to construct a robust time series forecasting model adept at predicting home sales, encompassing the entirety of 2018 and projecting into the subsequent years until 2022.​
+
+The established null and alternative hypotheses for this analysis: 
+
+​**​Null Hypothesis:** A predictive time series forecasting model with a mean absolute percentage error of < 20% cannot be generated from the research dataset.                          
+**Alternate Hypothesis:** A predictive time series forecasting model with a mean absolute percentage error of < 20% can be generated from the research dataset.​ 
+
+In order to discern a truly adept predictive time series forecasting model with regards to validating or refuting the null hypothesis, the ultimate refined model must exhibit a mean absolute percentage error (MAPE) of 20% or lower for its projections on the test data spanning 2018 to 2022. This stringent benchmark serves as the threshold for considering a model as "effective."
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D214/D214_Task_2.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D214/D214_Task_2.ipynb) 
+
+<img src="images/CAPSTONE.png?raw=true" width="500" height="200"/>
+
+## Skills-Based Projects
+A selection of smaller projects demonstrating specific data science and ML skills.
+
 ### Hierarchical & K-Means Clustering Techniques
 
 K-Means clustering is a machine learning technique used for unsupervised data clustering and partitioning. It aims to group similar data points together into clusters, with the number of clusters (k) predefined by the user. The algorithm iteratively assigns data points to the nearest cluster centroid and recalculates the centroids until convergence, minimizing the distance between data points and their assigned centroids. K-Means is widely used in data analysis and segmentation tasks, helping to discover patterns and relationships within datasets. It's applicable to various domains, including customer segmentation, image compression, and anomaly detection.
@@ -62,9 +80,6 @@ In this analysis, neural networks are employed for sentiment recognition, specif
 [![](https://img.shields.io/badge/Python-white?logo=Python)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://github.dev/um3dev/WGU_PORTFOLIO/blob/27df33f909d6f1ab3eec819b8b00632402e39ecd/D213/D213_Task_1.ipynb) 
 
 <!-- <img src="images/TimeSeriesModeling.png?raw=true" width="500" height="200" /> -->
-
-## Skills-Based Projects
-A selection of smaller projects demonstrating specific data science and ML skills.
 
 <!-- - [Working in the cloud: Using data stored in AWS S3 buckets](#)
 - [Optimising code with multiprocessing](#) -->
