@@ -11,8 +11,8 @@ Applied K-Means to undesignated customer data to identify and group common featu
 
 <!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
 
-<img src="images/KMeansClustering3.png?raw=true" width="300" height="350" />
-<img src="images/KMeansClustering.png?raw=true" width="300" height="350"/>
+<!-- <img src="images/KMeansClustering3.png?raw=true" width="300" height="350" /> -->
+<img src="images/KMeansClustering.png?raw=true" width="500" height="450"/>
 
 ---
 
@@ -27,8 +27,7 @@ Performed PCA on a dataset to decrease dimensionality and assess the importance 
 
 <!-- [View Code On Colab](https://colab.research.google.com/drive/1pdnI-aN1Ui1-QXPT0GVzjCEb-VYLJBW9?usp=sharing) -->
 
-<img src="images/PCAMatrix.png?raw=true" width="300" height="350" />
-<img src="images/PCAConfusion.png?raw=true" width="300" height="350"/>
+<img src="images/PCAMatrix.png?raw=true" width="500" height="450" />
 
 ---
 
